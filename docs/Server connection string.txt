@@ -1,0 +1,1 @@
+Server=tcp:server4976.database.windows.net,1433;Initial Catalog=school-api-db;Persist Security Info=False;User ID=server4976;Password=b;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;
